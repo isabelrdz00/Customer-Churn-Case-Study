@@ -79,3 +79,15 @@ This project demonstrates the ability to perform a full analytical cycle using P
 - DAX and Power BI modeling
 - Data-driven storytelling
 - Stakeholder communication
+  <img width="1367" height="773" alt="image" src="https://github.com/user-attachments/assets/02423b6f-3049-4df9-94d1-537d9f040334" />
+
+ <img width="1368" height="820" alt="cc1" src="https://github.com/user-attachments/assets/fc4b99c0-d9dd-4203-b745-4d18a59e2bfe" />
+
+ <img width="1358" height="791" alt="cc2" src="https://github.com/user-attachments/assets/2bdc61d6-ae91-4bb0-84a9-e6b6018f442c" />
+ 
+<img width="1367" height="763" alt="cc3" src="https://github.com/user-attachments/assets/acb7271b-14dc-411f-8002-46e01119deb1" />
+
+ 
+
+
+
