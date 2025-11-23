@@ -17,20 +17,20 @@ The final report is designed for business stakeholders who need to understand wh
 
 This project follows the five-step data analysis flow used in real Power BI engagements.
 
-1. Data Check (Quality Review)
+_**1. Data Check (Quality Review)**_
 - Verified column types and formats
 - Checked for missing values or anomalies
 - Confirmed churn labels (“Yes” / “No”)
 - Cross-referenced the metadata sheet for accuracy
 
-2. Data Exploration
+_**2. Data Exploration**_
 Asked key analytical questions such as:
 - Do monthly charges correlate with churn?
 - Are month-to-month contract holders more likely to leave?
 - Does lack of tech support or high service usage affect churn?
 - Which demographic groups churn the most?
 
-3. Analyze & Visualize
+_**3. Analyze & Visualize**_
 Built targeted visuals and measures to uncover insights:
 - Churn rate (%)
 - Churn by contract type
@@ -38,7 +38,7 @@ Built targeted visuals and measures to uncover insights:
 - Impact of internet type, tech support, and premium services
 - Financial indicators: monthly vs total charges
 
-4. Build Dashboards
+_**4. Build Dashboards**_
 Designed a multi-section dashboard that includes:
 - KPIs (Total Customers, Churned Customers, Churn Rate)
 - Customer profile segmentation
@@ -46,7 +46,7 @@ Designed a multi-section dashboard that includes:
 - Billing and revenue analysis
 - Interactive filters for deeper exploration
 
-5. Communicate Insights
+_**5. Communicate Insights**_
    
 The final report consolidates the analysis into an accessible Power BI interface for stakeholders, enabling them to explore churn drivers and take action.
 
