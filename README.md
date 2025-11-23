@@ -47,9 +47,11 @@ Designed a multi-section dashboard that includes:
 - Interactive filters for deeper exploration
 
 5. Communicate Insights
+   
 The final report consolidates the analysis into an accessible Power BI interface for stakeholders, enabling them to explore churn drivers and take action.
 
 **Dataset Overview**
+
 The Databel dataset contains 29 columns with one row per customer. Key fields include:
 - Customer_id (unique identifier)
 - Churn Label (Yes / No)
@@ -60,6 +62,7 @@ The Databel dataset contains 29 columns with one row per customer. Key fields in
 - The data represents a static snapshot — no time-based records.
 
 **Dashboard Features**
+
 The Power BI dashboard includes:
 - Churn KPIs and summary cards
 - Bar charts, donut charts, and filters
