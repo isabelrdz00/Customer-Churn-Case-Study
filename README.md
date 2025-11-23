@@ -1,7 +1,9 @@
 **📊 Databel Telecom – Customer Churn Analysis (Power BI Case Study)**
+
 This project is a complete customer churn analysis conducted in Power BI Desktop using a fictional telecom dataset from Databel. The goal is to identify the main drivers of churn (customer attrition), understand customer behavior, and present insights through an interactive Power BI dashboard.
 
 **⭐ Project Summary**
+
 This case study demonstrates an end-to-end analytics workflow:
 - validating and preparing the churn dataset
 - exploring patterns across demographics, plans, and service usage
@@ -12,15 +14,13 @@ This case study demonstrates an end-to-end analytics workflow:
 The final report is designed for business stakeholders who need to understand why customers leave and where the company can intervene.
 
 **Data Analysis Workflow**
+
 This project follows the five-step data analysis flow used in real Power BI engagements.
 
 1. Data Check (Quality Review)
 - Verified column types and formats
-
 - Checked for missing values or anomalies
-
--Confirmed churn labels (“Yes” / “No”)
-
+- Confirmed churn labels (“Yes” / “No”)
 - Cross-referenced the metadata sheet for accuracy
 
 2. Data Exploration
